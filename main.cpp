@@ -4,9 +4,9 @@
 using namespace std;
 
 int main() {
-  int n;
-  cin >> n;
-  cout << sum(n) << endl;
-  return 0;
+	int n;
+	cin >> n;
+	cout << sum(n) << endl;
+	return 0;
 }
 
